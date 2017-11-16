@@ -1,0 +1,41 @@
+.texto_ciudad{
+  font-family: pristina;
+  font-size: 50px;
+  text-align: center;
+}
+.texto_descripcion{
+  font-family: gerogia;
+  font-style: italic;
+  font-size: 20px;
+  text-align: justify;
+}
+.imagen_ciudad {
+  border-radius: 25px;
+  box-shadow: 0px 0px 10px 3px green;
+  margin: 15px;
+  width: 30%;;
+    }
+  .imagen_entrar{
+    border-radius: 25px;
+    box-shadow: 0px 0px 10px 3px green;
+    margin: 15px;
+    width: 100%;
+  }
+.centrarImg{
+  text-align: center;
+}
+.ing_index{
+  width: 100%;
+}
+.centrarAdminImga{
+  border-radius: 25px;
+box-shadow: 0px 0px 10px 3px green;
+margin: 15px;
+width: 90%;
+}
+.centrarAdminCiud{
+  border-radius: 25px;
+box-shadow: 0px 0px 10px 3px green;
+margin: 15px;
+width: 90%;
+}
